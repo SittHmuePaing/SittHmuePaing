@@ -27,7 +27,7 @@ Contributed to UI/UX design and database connections.
 Discord Clone
 
 Created a feature-rich platform with functional requirements like chat history storage and message delivery optimization.
-[See more details here!](ttps://github.com/UBCO-COSC-310-Winter-2022-T2/the-project-marbl)
+[See more details here!](https://github.com/UBCO-COSC-310-Winter-2022-T2/the-project-marbl)
 
 
 Dog-Walking App
