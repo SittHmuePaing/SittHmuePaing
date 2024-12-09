@@ -21,7 +21,13 @@ The Vnonymous
 
 Built features such as video uploading, AWS integration, and facial blurring for a secure and interactive platform.
 Contributed to UI/UX design and database connections.
-Check it out here!
+[Check it out here](https://github.com/COSC-499-W2023/year-long-project-team-13)
+
+
+Discord Clone
+
+Created a feature-rich platform with functional requirements like chat history storage and message delivery optimization.
+[See more details here!](ttps://github.com/UBCO-COSC-310-Winter-2022-T2/the-project-marbl)
 
 
 Dog-Walking App
@@ -29,12 +35,6 @@ Dog-Walking App
 Developed a mobile app that connects dog owners and walkers with features like scheduling, reviews, and messaging.
 Designed a user-friendly interface inspired by dating apps.
 Explore the project here!
-
-
-Discord Clone
-
-Created a feature-rich platform with functional requirements like chat history storage and message delivery optimization.
-See more details here!
 
 
 Fun Fact: I thrive in team settings and enjoy collaborating on creative projects.
