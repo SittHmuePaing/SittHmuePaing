@@ -6,7 +6,7 @@ I am a recent Computer Science graduate with a strong interest in software devel
 
 # 🌱 Currently Exploring and Doing:
 
-- Learning Tailwand CSS and React. 
+- Learning Tailwind CSS and React. 
 - Making connections with other individuals in tech society, attending tech events.
 
 # 👩‍💻 Technical Skills:
