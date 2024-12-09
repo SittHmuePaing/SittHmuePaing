@@ -9,13 +9,13 @@ I am a recent Computer Science graduate with a strong interest in software devel
 Learning Tailwand CSS and React. 
 Making connections with other individuals in tech society, attending tech events.
 
-#👩‍💻 Technical Skills:
+# 👩‍💻 Technical Skills:
 
 Programming Languages: HTML, CSS, JavaScript, Python, Java, SQL
 Frameworks & Tools: Django, Android Studio, AWS
 Other Skills: Data analysis, database management, UI/UX design principles
 
-#📌 Featured Projects
+# 📌 Featured Projects
 
 The Vnonymous
 
@@ -35,14 +35,14 @@ See more details here!
 
 Fun Fact: I thrive in team settings and enjoy collaborating on creative projects.
 
-#📫 Connect With Me:
+# 📫 Connect With Me:
 
 LinkedIn: Your LinkedIn Profile
 <!-- Portfolio: Your Portfolio Link -->
 Email: YourEmail@example.com
 
 
-#⭐ Let's Build Something Amazing Together!
+# ⭐ Let's Build Something Amazing Together!
 <!--
 **SittHmuePaing/SittHmuePaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
