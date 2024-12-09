@@ -6,14 +6,14 @@ I am a recent Computer Science graduate with a strong interest in software devel
 
 # 🌱 Currently Exploring and Doing:
 
--Learning Tailwand CSS and React. 
--Making connections with other individuals in tech society, attending tech events.
+- Learning Tailwand CSS and React. 
+- Making connections with other individuals in tech society, attending tech events.
 
 # 👩‍💻 Technical Skills:
 
--Programming Languages: HTML, CSS, JavaScript, Python, Java, SQL
--Frameworks & Tools: Django, Android Studio, AWS
--Other Skills: Data analysis, database management, UI/UX design principles
+- Programming Languages: HTML, CSS, JavaScript, Python, Java, SQL
+- Frameworks & Tools: Django, Android Studio, AWS
+- Other Skills: Data analysis, database management, UI/UX design principles
 
 # 📌 Featured Projects
 
