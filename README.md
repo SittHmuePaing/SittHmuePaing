@@ -37,9 +37,9 @@ Fun Fact: I thrive in team settings and enjoy collaborating on creative projects
 
 # 📫 Connect With Me:
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sitt-hmue-paing-65a55029a/)
 <!-- Portfolio: Your Portfolio Link -->
-Email: YourEmail@example.com
+Email: sitthmuepaing.raymond.7285@gmail.com
 
 
 # ⭐ Let's Build Something Amazing Together!
