@@ -6,14 +6,14 @@ I am a recent Computer Science graduate with a strong interest in software devel
 
 # 🌱 Currently Exploring and Doing:
 
-Learning Tailwand CSS and React. 
-Making connections with other individuals in tech society, attending tech events.
+-Learning Tailwand CSS and React. 
+-Making connections with other individuals in tech society, attending tech events.
 
 # 👩‍💻 Technical Skills:
 
-Programming Languages: HTML, CSS, JavaScript, Python, Java, SQL
-Frameworks & Tools: Django, Android Studio, AWS
-Other Skills: Data analysis, database management, UI/UX design principles
+-Programming Languages: HTML, CSS, JavaScript, Python, Java, SQL
+-Frameworks & Tools: Django, Android Studio, AWS
+-Other Skills: Data analysis, database management, UI/UX design principles
 
 # 📌 Featured Projects
 
@@ -22,11 +22,15 @@ The Vnonymous
 Built features such as video uploading, AWS integration, and facial blurring for a secure and interactive platform.
 Contributed to UI/UX design and database connections.
 Check it out here!
+
+
 Dog-Walking App
 
 Developed a mobile app that connects dog owners and walkers with features like scheduling, reviews, and messaging.
 Designed a user-friendly interface inspired by dating apps.
 Explore the project here!
+
+
 Discord Clone
 
 Created a feature-rich platform with functional requirements like chat history storage and message delivery optimization.
