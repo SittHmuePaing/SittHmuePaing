@@ -4,7 +4,7 @@
 
 I am a recent Computer Science graduate with a strong interest in software development and problem-solving. During my studies, I collaborated on team projects that enhanced my skills in coding, debugging, and creating practical solutions. While I may be new to the field, I am eager to learn, adapt, and contribute to a supportive team environment. I am committed to growing as a developer and am excited about the opportunity to assist in creating valuable software.
 
-🌱 Currently Exploring and Doing:
+## 🌱 Currently Exploring and Doing:
 
 Learning Tailwand CSS and React. 
 Making connections with other individuals in tech society, attending tech events.
