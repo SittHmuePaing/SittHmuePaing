@@ -21,13 +21,19 @@ The Vnonymous
 
 Built features such as video uploading, AWS integration, and facial blurring for a secure and interactive platform.
 Contributed to UI/UX design and database connections.
-[Check it out here](https://github.com/COSC-499-W2023/year-long-project-team-13)
+[Check it out here!](https://github.com/COSC-499-W2023/year-long-project-team-13)
 
 
 Discord Clone
 
 Created a feature-rich platform with functional requirements like chat history storage and message delivery optimization.
-[See more details here!](https://github.com/UBCO-COSC-310-Winter-2022-T2/the-project-marbl)
+[Check it out here!](https://github.com/UBCO-COSC-310-Winter-2022-T2/the-project-marbl)
+
+
+Steam Game Review Analysis
+
+A data analysis project focused on exploring how recent reviews influence the overall rating of Steam games and identifying games with the highest recent reviews across different categories like 'very positive,' 'mixed,' and 'negative.'
+[Check it out here!](https://github.com/ubco-W2022T1-cosc301/project-group15)
 
 
 Dog-Walking App
