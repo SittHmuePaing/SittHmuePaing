@@ -46,7 +46,9 @@ Designed a user-friendly interface inspired by dating apps.
 Explore the project here!
 
 
-Fun Fact: I thrive in team settings and enjoy collaborating on creative projects.
+
+💡✨ Did You Know? 🌟: I thrive in team settings and enjoy collaborating on creative projects.
+
 
 # 📫 Connect With Me:
 
