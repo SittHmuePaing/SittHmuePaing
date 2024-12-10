@@ -4,18 +4,18 @@
 
 I am a recent Computer Science graduate with a strong interest in software development and problem-solving. During my studies, I collaborated on team projects that enhanced my skills in coding, debugging, and creating practical solutions. While I may be new to the field, I am eager to learn, adapt, and contribute to a supportive team environment. I am committed to growing as a developer and am excited about the opportunity to assist in creating valuable software.
 
-# 🌱 Currently Exploring and Doing:
+## 🌱 Currently Exploring and Doing:
 
 - Learning Tailwind CSS and React. 
 - Making connections with other individuals in tech society, attending tech events.
 
-# 👩‍💻 Technical Skills:
+## 👩‍💻 Technical Skills:
 
 - Programming Languages: HTML, CSS, JavaScript, Python, Java, SQL
 - Frameworks & Tools: Django, Android Studio, AWS
 - Other Skills: Data analysis, database management, UI/UX design principles
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 1. The Vnonymous
 
@@ -55,7 +55,7 @@ Explore the project here!
 
 
 
-# 📫 Connect With Me:
+## 📫 Connect With Me:
 
 I love to make new connections so please do not hesitate to connect with me. 😊
 
@@ -64,7 +64,7 @@ LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sitt-hmue-paing-65a5
 Email: sitthmuepaing.raymond.7285@gmail.com
 
 
-# ⭐ Let's Build Something Amazing Together!
+## ⭐ Let's Build Something Amazing Together!
 <!--
 **SittHmuePaing/SittHmuePaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
