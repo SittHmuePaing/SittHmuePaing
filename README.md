@@ -49,7 +49,7 @@ Explore the project here!
 
 
 
-##💡✨ Did You Know? 🌟: I thrive in team settings and enjoy collaborating on creative projects.
+## 💡✨ Did You Know? 🌟: I thrive in team settings and enjoy collaborating on creative projects.
 
 
 
