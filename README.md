@@ -17,26 +17,29 @@ I am a recent Computer Science graduate with a strong interest in software devel
 
 # 📌 Featured Projects
 
-The Vnonymous
+1. The Vnonymous
 
 Built features such as video uploading, AWS integration, and facial blurring for a secure and interactive platform.
 Contributed to UI/UX design and database connections.
 [Check it out here!](https://github.com/COSC-499-W2023/year-long-project-team-13)
 
 
-Discord Clone
+
+2. Discord Clone
 
 Created a feature-rich platform with functional requirements like chat history storage and message delivery optimization.
 [Check it out here!](https://github.com/UBCO-COSC-310-Winter-2022-T2/the-project-marbl)
 
 
-Steam Game Review Analysis
+
+3. Steam Game Review Analysis
 
 A data analysis project focused on exploring how recent reviews influence the overall rating of Steam games and identifying games with the highest recent reviews across different categories like 'very positive,' 'mixed,' and 'negative.'
 [Check it out here!](https://github.com/ubco-W2022T1-cosc301/project-group15)
 
 
-Dog-Walking App
+
+4. Dog-Walking App
 
 Developed a mobile app that connects dog owners and walkers with features like scheduling, reviews, and messaging.
 Designed a user-friendly interface inspired by dating apps.
