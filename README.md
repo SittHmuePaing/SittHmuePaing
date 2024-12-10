@@ -39,11 +39,9 @@ A data analysis project focused on exploring how recent reviews influence the ov
 
 
 
-4. Dog-Walking App
-
-Developed a mobile app that connects dog owners and walkers with features like scheduling, reviews, and messaging.
-Designed a user-friendly interface inspired by dating apps.
-Explore the project here!
+4. Innovative Technologies
+A community forum web application that enables users to create accounts, post content, interact through comments, and engage in discussions. Features include dynamic search, upvoting/downvoting, and an admin interface to manage users and content. Designed with a user-friendly, responsive interface and built with modern web technologies.
+[Check it out here!](https://github.com/UBCO-COSC-360-Summer-2023-Term-1/the-project-360adamraymond)
 
 
 
