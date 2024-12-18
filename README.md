@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I am a recent Computer Science graduate with a strong interest in software development and problem-solving. During my studies, I collaborated on team projects that enhanced my skills in coding, debugging, and creating practical solutions. While I may be new to the field, I am eager to learn, adapt, and contribute to a supportive team environment. I am committed to growing as a developer and am excited about the opportunity to assist in creating valuable software.
+I’m a recent Computer Science graduate excited to explore different areas in technology, including software development, data analysis, artificial intelligence, and cybersecurity. Through my studies and team projects, I’ve developed strong problem-solving and technical skills, and I’m eager to keep learning and growing. I’m open to new challenges and look forward to working in a supportive team where I can contribute to meaningful projects and make a positive impact.
 
 ## 🌱 Currently Exploring and Doing:
 
