@@ -2,7 +2,9 @@
 
 🚀 About Me
 
-I’m a recent Computer Science graduate excited to explore different areas in technology, including software development, data analysis, artificial intelligence, and cybersecurity. Through my studies and team projects, I’ve developed strong problem-solving and technical skills, and I’m eager to keep learning and growing. I’m open to new challenges and look forward to working in a supportive team where I can contribute to meaningful projects and make a positive impact.
+I'm a recent Computer Science graduate eager to explore various technology fields, including software development, data analysis, AI, and cybersecurity. Through my studies and team projects, I’ve built strong problem-solving and technical skills, and I'm enthusiastic about continuous learning. 
+
+I also hold a Diploma in Green Building Energy Management (now known as Sustainable Built Environment), opening opportunities in software development, assistant engineering, and related fields. I'm excited to contribute to meaningful projects, collaborate with a supportive team, and make a positive impact while growing my expertise in the tech industry.
 
 ## 🌱 Currently Exploring and Doing:
 
