@@ -8,7 +8,7 @@ I also hold a Diploma in Green Building Energy Management (now known as Sustaina
 
 ## 🌱 Currently Exploring and Doing:
 
-- Learning Tailwind CSS and React. 
+- Started exploring C++ and React. 
 - Making connections with other individuals in tech society, attending tech events.
 
 ## 👩‍💻 Technical Skills:
